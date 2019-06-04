@@ -1,7 +1,7 @@
 # CleanUpMac
 Bash script to clean your macOS computer.
 
-```
+```bash
 # Maintenance script for macOS
 #!/usr/bin/env bash
 
